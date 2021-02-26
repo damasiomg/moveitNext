@@ -16,4 +16,4 @@ This is a health app project to helps people to take breaks while working. This 
 3. `yarn dev`
 
 ## Live demo:
-1. `https://moveit-next-dd.vercel.app`
+[https://moveit-next-dd.vercel.app](https://moveit-next-dd.vercel.app);
